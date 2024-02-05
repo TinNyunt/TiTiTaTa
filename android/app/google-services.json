@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "656876792530",
+    "project_id": "chat-app-aa650",
+    "storage_bucket": "chat-app-aa650.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656876792530:android:a6728c84f8f53f34cd9b0b",
+        "android_client_info": {
+          "package_name": "com.example.tititata"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzyJaMfRoDtCrg1eqToeNvfwPjNGFv8_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
